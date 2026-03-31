@@ -22,3 +22,6 @@ Se incluye la validación automática de archivos Markdown para asegurar buenas 
 1. Clonar el repositorio:
 
 ```bash
+
+## Nota
+Este es un cambio para segundo Pull Request

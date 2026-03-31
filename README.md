@@ -1,6 +1,5 @@
-# MiProyectoDevops
-
-##  Descripción
+## Descripción
+## Instalación
 
 Este proyecto tiene como objetivo aplicar los fundamentos de Git y GitHub, implementando un flujo de trabajo colaborativo junto con automatización mediante GitHub Actions.
 
@@ -18,7 +17,7 @@ Se incluye la validación automática de archivos Markdown para asegurar buenas 
 
 ---
 
-##  Instalación
+## Instalación
 
 1. Clonar el repositorio:
 

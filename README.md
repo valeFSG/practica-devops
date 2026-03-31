@@ -17,7 +17,7 @@ Se incluye la validación automática de archivos Markdown para asegurar buenas 
 
 ---
 
-## Instalación
+## Uso
 
 1. Clonar el repositorio:
 

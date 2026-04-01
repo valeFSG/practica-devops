@@ -22,3 +22,11 @@ Se incluye la validación automática de archivos Markdown para asegurar buenas 
 1. Clonar el repositorio:
 
 ```bash
+
+## Nota
+Este es un cambio para segundo Pull Request
+## Segundo cambio
+Este es el segundo Pull Request del proyecto
+
+## Cambio final
+Este es el segundo PR del proyecto
